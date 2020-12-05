@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="logo"/>
-</p>
 
 # Learn Python 3
 
