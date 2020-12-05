@@ -12,20 +12,10 @@ This repository contains a collection of materials for teaching/learning Python 
 * Have Python 3.5 or newer installed. You can check the version by typing `python3 --version` in your command line. You can download the latest Python version from [here](https://www.python.org/downloads/).
 * Have [Jupyter Notebook installed](http://jupyter.readthedocs.io/en/latest/install.html).
 
-If you can not access Python and/or Jupyter Notebook on your machine, you can still follow the web based materials. However, you should be able to use Jupyter Notebook in order to complete the exercises.
-
-#### Usage
-
-1. Clone or download this repository.
-2. Run `jupyter notebook` command in your command line in the repository directory.
-3. Jupyter Notebook session will open in the browser and you can start navigating through the materials.
-
-#### Contributing
-See [contributing](https://github.com/jerry-git/learn-python3/blob/master/CONTRIBUTING.md) guide.
 
 
 ## Beginner
-1. [Strings](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/strings.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/strings.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/strings_exercise.ipynb)
+1. [Strings](Beginner-and-Intermediate-Python/notebooks/beginner/notebooks/strings.ipynb) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/strings.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/strings_exercise.ipynb)
 1. [Numbers](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/numbers.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/numbers.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/numbers_exercise.ipynb)
 1. [Conditionals](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/conditionals.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/conditionals.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/conditionals_exercise.ipynb)
 1. [Lists](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/lists.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/lists.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/lists_exercise.ipynb)
@@ -65,9 +55,6 @@ Python is a powerful language which contains many features not presented in most
 A list of best development practices for Python projects. Most of the practices listed here are also applicable for other languages, however the presented tooling focuses mainly on Python.
 1. [Best practices](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/best_practices.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/best_practices.ipynb)
 
-#### General topics
-1. [Goodies of the Standard Library - part 2](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/std_lib2.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/std_lib2.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/exercises/std_lib2_exercise.ipynb)
-
 #### Backlog
 * Sets
 * Generators
@@ -82,24 +69,3 @@ A list of best development practices for Python projects. Most of the practices 
 * Testing with mocks
 * Structuring your tests
 
-
-## Use cases
-
-#### Playing with the web
-* requests
-* testing requests with responses
-* beautifulsoup4
-* selenium
-
-#### Communicating with databases
-* SQLAlchemy
-
-#### Working with documents
-* excel
-	* openpyxl
-* pdf
-	* pdfrw / PyPDF2
-
-
-## Credits
-* Logo: Abdur-Rahmaan Janhangeer, [@Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ)
